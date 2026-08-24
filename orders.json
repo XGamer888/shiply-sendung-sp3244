@@ -1,0 +1,47 @@
+{
+  "SP3244": {
+    "status": "Waiting for payment",
+    "statusClass": "pending",
+    "sender": "Lukas Graf, Kölner Landstraße 175, 52351 Düren, Germany",
+    "receiver": "Jan Schiøtt, Idrætsvej 32, 4532 Gislinge, Denmark",
+    "price": "7.250 €",
+    "description": "Manufacturer: Yamaha<br>Model: XJR 1300<br>Chassis number: JYARP191000001446<br>First registration: 06/2007<br>Mileage: 31.417 km<br>Power: 72 kW (98 PS)<br>Engine capacity: 1.251 cm³<br>Color: Black<br><br>The motorcycle is fully functional, no falls or accidents.<br>All papers and keys are included.<br>Inkl. Tank Bag, Top Box.",
+    "address": "Jan Schiøtt<br>Idrætsvej 32<br>4532 Gislinge<br>Denmark<br>Telefon: +45 30484242 ",
+    "documents": [
+      {
+        "name": "Delivery note",
+        "url": "docs/Delivery_note.pdf"
+      },
+      {
+        "name": "Purchase contract",
+        "url": "docs/Purchase_Contract.pdf"
+      },
+      {
+        "name": "Invoice",
+        "url": "docs/Invoice.pdf"
+      },
+      {
+        "name": "Terms & Conditions",
+        "url": "docs/Terms.pdf"
+      }
+    ],
+    "orderDate": "24.08.2026",
+    "deliveryDate": "28.08.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
